@@ -1,2 +1,2 @@
-# catane-icons
-catane icons
+# xatane-icons
+xatane icons
