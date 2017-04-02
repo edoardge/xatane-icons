@@ -3,12 +3,14 @@ xatane icons
 
 mixture of different pack icons:
 
-numix
+damas damas
 
 deepin
 
 la capitaine
 
-damas damas
+numix
 
 oranchelo
+
+plataro
